@@ -1,0 +1,10 @@
+{
+  "name": "replace-with",
+  "version": "1.0.0",
+  "description": "A fast, easy to use find & replace utility",
+  "main": "index.js",
+  "repository": "git@github.com:peterpme/replace-with.git",
+  "author": "Peter Piekarczyk <peter@orchard.ai>",
+  "license": "MIT",
+  "private": false
+}
