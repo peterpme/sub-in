@@ -1,6 +1,6 @@
 const REGEX = /\$(\d+)/gi;
 
-function replaceWith(str = '', args) {
+function subIn(str = '', args) {
   const values = str.replace(REGEX, (str, number) => {
     return args[number];
   });
@@ -8,4 +8,4 @@ function replaceWith(str = '', args) {
   return values;
 }
 
-module.exports = replaceWith;
+module.exports = subIn;
