@@ -21,7 +21,7 @@ npm install sub-in
 
 # Usage
 
-Create a string with any number of placeholders: `$0`, `$1`, `$2`. Placeholders are zero based:
+Create a string with any number of placeholders: `$0`, `$1`, `$2`, `$3`, `$4`, etc. Placeholders are zero based:
 
 - `$0` = `['Peter']` (Peter)
 - `$1` = `['Tom', 'Peter']` (Peter)
