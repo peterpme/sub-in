@@ -6,6 +6,16 @@
 
 A tiny (115B) find-and-replace utility for strings in Javascript.
 
+# Installation
+
+```
+npm install sub-in
+```
+
+```
+yarn add sub-in
+```
+
 # Usage
 
 ```es6
