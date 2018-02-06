@@ -1,8 +1,8 @@
 {
   "name": "sub-in",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
-  "description": "A tiny find-and-replace utility for strings in Javascript",
+  "description": "A tiny (115B) find-and-replace utility for strings in Javascript",
   "source": "subIn.js",
   "main": "dist/subIn.js",
   "module": "dist/subIn.m.js",
