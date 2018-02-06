@@ -2,11 +2,12 @@
   "name": "sub-in",
   "version": "1.0.0",
   "private": false,
-  "description": "An easy to use, tiny find & replace utility.",
+  "description": "A tiny find-and-replace utility for strings in Javascript",
   "source": "subIn.js",
   "main": "dist/subIn.js",
   "module": "dist/subIn.m.js",
-  "repository": "git@github.com:peterpme/sub-in.git",
+  "repository": "peterpme/sub-in.git",
+  "homepage": "git@github.com:peterpme/sub-in.git",
   "author": "Peter Piekarczyk <peter@orchard.ai>",
   "license": "MIT",
   "scripts": {
@@ -19,7 +20,7 @@
     "jest": "^22.1.4"
   },
   "files": [
-    "src",
+    "subIn.js",
     "dist"
   ]
 }
