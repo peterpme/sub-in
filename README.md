@@ -22,8 +22,10 @@ npm install sub-in
 # Usage
 
 Create a string with any number of placeholders: `$0`, `$1`, `$2`. Placeholders are zero based:
-`$0` = `['Peter']` (Peter)
-`$1` = `['Tom', 'Peter']` (Peter)
+
+- `$0` = `['Peter']` (Peter)
+- `$1` = `['Tom', 'Peter']` (Peter)
+- `$2` = `['Tom', 'John', 'Peter']` (Peter)
 
 ```es6
 const greeting = 'Hey $0, how are you doing?'
