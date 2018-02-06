@@ -1,4 +1,4 @@
-# subIn
+## 🥙 subIn [![npm](https://img.shields.io/npm/v/sub-in.svg)](https://npm.im/sub-in) [![travis](https://travis-ci.org/peterpme/sub-in.svg?branch=master)](https://travis-ci.org/peterpme/sub-in)
 
 A tiny, fast utility function for string replacement in Javascript.
 
