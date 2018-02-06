@@ -1,6 +1,10 @@
-## 🥙 subIn [![npm](https://img.shields.io/npm/v/sub-in.svg)](https://npm.im/sub-in) [![travis](https://travis-ci.org/peterpme/sub-in.svg?branch=master)](https://travis-ci.org/peterpme/sub-in)
+<p align="center">
+  <img src="https://i.imgur.com/508SkFr.png" width="500" alt="SubIn">
+</p>
 
-A tiny, fast utility function for string replacement in Javascript.
+## 🥙 SubIn [![npm](https://img.shields.io/npm/v/sub-in.svg)](https://npm.im/sub-in) [![travis](https://travis-ci.org/peterpme/sub-in.svg?branch=master)](https://travis-ci.org/peterpme/sub-in)
+
+A tiny (115B) find-and-replace utility for strings in Javascript.
 
 # Usage
 
