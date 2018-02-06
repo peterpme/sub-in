@@ -1,6 +1,6 @@
 {
   "name": "sub-in",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "A tiny find-and-replace utility for strings in Javascript",
   "source": "subIn.js",
