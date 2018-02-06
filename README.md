@@ -8,12 +8,15 @@ A tiny (115B) find-and-replace utility for strings in Javascript.
 
 # Installation
 
-```
-npm install sub-in
+If you're using `Yarn`:
+```sh
+yarn add sub-in
 ```
 
-```
-yarn add sub-in
+If you're using `npm`:
+
+```sh
+npm install sub-in
 ```
 
 # Usage
